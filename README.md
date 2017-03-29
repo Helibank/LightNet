@@ -14,7 +14,7 @@ Have fun!
 
 ## Recent updates
 
-- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) CUDNN is supported by installing Neural Network Toolbox from Mathworks. The convolutional network training is over 10x faster than the previous release! The current version can process 10,000 CIFAR-10 images per second in the training.
+-CUDNN is supported by installing Neural Network Toolbox from Mathworks. The convolutional network training is over 10x faster than the previous release! The current version can process 10,000 CIFAR-10 images per second in the training.
 
 LightNet supports using pretrained ImageNet network models. 
 ![coco](coco.png)
